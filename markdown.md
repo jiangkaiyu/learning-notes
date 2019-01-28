@@ -16,7 +16,7 @@
 ***
 ### 学习资料
   从文章，视频，github项目上学习了markdown相关知识，下面放上链接。  
-  [1] [MarkDown官网](https://www.typora.io/)  
+  [1] [MarkDown官网](http://www.markdown.cn)  
   [2] [Markdown教程-Typora(51CTO学院)](http://edu.51cto.com/course/9006.html?source=so)  
   [3] [README项目(果冻虾仁 )](https://github.com/guodongxiaren/README)
 ***
