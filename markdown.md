@@ -5,7 +5,7 @@
 ***
 ### 工具推荐
 #### * web在线
-> 1. [Gihub][Github]
+> 1. [GitHub][Github]
 > 2. [作业部落][作业部落]
 #### * 客户端
 > 1. [Typora][Typora]
