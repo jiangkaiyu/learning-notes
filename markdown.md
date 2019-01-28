@@ -14,5 +14,5 @@
 ***
 [Github]: https://github.com
 [作业部落]: https://www.zybuluo.com/mdeditor
-[Typora]: http://note.youdao.com
+[Typora]: https://www.typora.io
 [有道云笔记]: http://note.youdao.com
