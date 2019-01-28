@@ -10,7 +10,15 @@
 #### * 客户端
 > 1. [Typora][Typora]
 > 2. [有道云笔记][有道云笔记]
+***
+### 基本语法
 
+***
+### 学习资料
+  从文章，视频，github项目上学习了markdown相关知识，下面放上链接。  
+  [1] [MarkDown官网](https://www.typora.io/)  
+  [2] [Markdown教程-Typora(51CTO学院)](http://edu.51cto.com/course/9006.html?source=so)  
+  [3] [README项目(果冻虾仁 )](https://github.com/guodongxiaren/README)
 ***
 [Github]: https://github.com
 [作业部落]: https://www.zybuluo.com/mdeditor
