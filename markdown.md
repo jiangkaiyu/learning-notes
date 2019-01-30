@@ -19,11 +19,12 @@
 
 
 ***
-### 学习资料
-  从文章，视频，github项目上学习了markdown相关知识，下面放上链接。  
+### 学习资料  
   [1] [MarkDown官网](http://www.markdown.cn)  
   [2] [Markdown教程-Typora(51CTO学院)](http://edu.51cto.com/course/9006.html?source=so)  
-  [3] [README项目(果冻虾仁 )](https://github.com/guodongxiaren/README)
+  [3] [README项目(果冻虾仁 )](https://github.com/guodongxiaren/README)  
+  
+*关键词：* `学习` `markdown` `网址链接`
 ***
 [Github]: https://github.com
 [作业部落]: https://www.zybuluo.com/mdeditor
